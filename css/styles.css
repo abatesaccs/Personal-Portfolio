@@ -1,7 +1,12 @@
-html {
+/* html {
 	background: url("../img/bgimage.png");
 	background-repeat: repeat;
 	z-index: 1;
+} */
+
+body {
+	background: url("../img/bgimage.png");
+	background-repeat: repeat;
 }
 
 .welcome {
@@ -16,6 +21,10 @@ html {
 	background: url("../img/bgimage2.png")
 }
 
-.row {
+/* .row {
 	background: url("../img/bgimage.png")
+} */
+
+.kerning {
+	kerning: 2%;
 }
