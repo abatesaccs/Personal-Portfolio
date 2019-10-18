@@ -20,6 +20,16 @@ hr {
 	text-align: center;
 }
 
+.meimg {
+	height: 100px;
+	width: auto;
+	margin-left: 21%;
+	margin-top: 2%;
+	padding: 2%;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
 .abtme {
 	margin-top: 1%;
 }
@@ -42,6 +52,12 @@ hr {
 
 .pbackground h3 {
 	font-weight: 500;
+	margin-right: 5%;
+	padding-right: 20px;
+}
+
+.pbackground p {
+	margin-left: 3%;
 }
 
 .bgtext {
@@ -65,7 +81,7 @@ hr {
 }
 
 .container {
-	
+
 }
 
 @media all and (max-width: 1400px) {
