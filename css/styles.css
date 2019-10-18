@@ -1,5 +1,5 @@
 body {
-	background: url("../img/bgimage.png");
+	background: url("../img/bodybg.png");
 	background-repeat: repeat;
 	font-family: Arial;
 }
@@ -20,19 +20,27 @@ hr {
 	text-align: center;
 }
 
-.panel {
-	margin: 3%;
-	background: url("../img/bgimage2.png");
+.abtme {
+	margin-top: 1%;
 }
 
-.background {
+.panel-heading {
+	background: url("../img/headingbg.png");
+}
+
+.panel {
+	margin: 3%;
+	background: url("../img/panelbg.png");
+}
+
+.pbackground {
 	float: left;
 	margin-left: 2%;
 	margin-right: 2%;
 	padding-top: 1%;
 }
 
-.background h3 {
+.pbackground h3 {
 	font-weight: 500;
 }
 
