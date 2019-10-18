@@ -1,0 +1,21 @@
+html {
+	background: url("../img/bgimage.png");
+	background-repeat: repeat;
+	z-index: 1;
+}
+
+.welcome {
+	width: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.panel {
+	margin: 3%;
+	background: url("../img/bgimage2.png")
+}
+
+.row {
+	background: url("../img/bgimage.png")
+}
