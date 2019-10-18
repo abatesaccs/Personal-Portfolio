@@ -56,6 +56,10 @@ hr {
 	margin-bottom: 2%;
 }
 
+.self {
+	font-style: italic;
+}
+
 @media all and (max-width: 1400px) {
 
 }
