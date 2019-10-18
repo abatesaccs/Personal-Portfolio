@@ -60,6 +60,14 @@ hr {
 	font-style: italic;
 }
 
+.tail {
+	text-align: center;
+}
+
+.container {
+	
+}
+
 @media all and (max-width: 1400px) {
 
 }

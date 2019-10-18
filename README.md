@@ -10,17 +10,15 @@ _This is an html page documenting my projects, and describing me, and who I am._
 
 ## Setup/Installation Requirements
 
-* _first step_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Go to https://github.com/abatesaccs/Personal-Portfolio_
+* _Clone or download all files in the repository (make sure they are contained in the same file!)_
+* _Open the index.html file_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_The file may have inconsistencies when using older browser versions_
 
 ## Known Bugs
 
-_No currently known bugs._
+_The contact page is a work in progress._
 
 ## Support and contact details
 
