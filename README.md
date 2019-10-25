@@ -10,9 +10,11 @@ _This is an html page documenting my projects, and describing me, and who I am._
 
 ## Setup/Installation Requirements
 
-* _Go to https://github.com/abatesaccs/Personal-Portfolio_
+* _Go to https://github.com/abatesaccs/Personal-Portfolio _
 * _Clone or download all files in the repository (make sure they are contained in the same file!)_
 * _Open the index.html file_
+
+* _OR go to: https://abatesaccs.github.io/Personal-Portfolio _
 
 _The file may have inconsistencies when using older browser versions_
 
